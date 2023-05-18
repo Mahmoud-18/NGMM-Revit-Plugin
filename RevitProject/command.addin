@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>RevitProject</Name>
+		<Assembly>RevitProject.dll</Assembly>
+		<AddInId>
+			A432A1BF-A036-4E74-97C3-B3F1B15AEED9
+		</AddInId>
+		<FullClassName>RevitProject.ExternalApp</FullClassName>
+		<VendorId>ITI</VendorId>
+		<VendorDescription>@ITI</VendorDescription>
+	</AddIn>			
+	</RevitAddIns>
